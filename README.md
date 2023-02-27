@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu GitHub!
 
-- 🔭 A procura de oportunidades
+
 - 😄 Pronome: Ela/Dela
 
 <div align="center">
